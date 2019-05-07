@@ -24,4 +24,4 @@ Here, compared performance to equal-weighted ETFs and SPY
 # Result and Insights
 * Performance comparison of strategies<br/>
 ![](/performance.png)<br/>
-* Detailed insights and motive of using each strategy is explained in following [presentation](https://drive.google.com/file/d/1V75Y8by6Uq2ME7aTnFgz5f1aEJbUttWc/view?usp=sharing)
+* Detailed insights and motive of using each strategy are explained in following [presentation](https://drive.google.com/file/d/1V75Y8by6Uq2ME7aTnFgz5f1aEJbUttWc/view?usp=sharing)
