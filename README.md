@@ -1,5 +1,5 @@
 # Quantitative-Trading-using-One-Class-Support-Vector-Machine-Momentum-RSI-and-DMI
-Developed highest profit generating quantitative strategies by implementing Momentum, RSI, Dynamic Momentum Index, and One Class Support Vector Machine
+Developed highest profit generating quantitative strategies while having decreased maximum drawdown by implementing One Class Support Vector Machine, Momentum, RSI, and Dynamic Momentum Index (DMI)
 
 # Universe
 * SPY : SPDR S&P 500 ETF<br/>
@@ -18,7 +18,7 @@ Developed highest profit generating quantitative strategies by implementing Mome
 * 6 Month Momentum comparing to SHY<br/>
 * 6 Month Momentum after filtering based on RSI (Relative Strength Index)<br/>
 * 6 Month Momentum after filtering based on DMI (Dynamic Momentum Index)<br/>
-* 6 Month Momentum after filtering based on RSI/DMI Outlier Detection - used One-Class Support Vector Machine<br/>
+* 6 Month Momentum after filtering based on RSI/DMI Outlier Detection - used One-Class SVM<br/>
 
 # Result and Insights
 * Performance comparison of strategies<br/>
