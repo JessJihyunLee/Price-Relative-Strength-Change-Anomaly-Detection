@@ -12,7 +12,7 @@ Developed highest profit generating quantitative strategies while having decreas
 * VGSIX : Vanguard Real Estate Index Fund<br/>
 * VGPMX : The Vanguard Global Capital Cycles Fund<br/>
 * IXC : iShares Global Energy ETF<br/>
-* All data read from python yahoo finance data reader from 2002 to 2019<br/>
+* All data read by python yahoo finance data reader from 2002 to 2019<br/>
 
 # Strategies
 * 6 Month Momentum comparing to SHY<br/>
