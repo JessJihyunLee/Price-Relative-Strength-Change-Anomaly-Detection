@@ -22,5 +22,5 @@ Developed highest profit generating quantitative strategies by implementing Mome
 
 # Result and Insights
 * Performance comparison of strategies<br/>
-![]('/Quantitative-Trading-using-One-Class-Support-Vector-Machine-Momentum-RSI-and-DMI/performance.png')<br/>
+![](/performance.png)<br/>
 * Detailed insights and motive of using each strategy is explained in following [presentation]('https://drive.google.com/file/d/1qafUKXN-Xh8XQkP66m6vlD6IguDOD6fR/view?usp=sharing')
