@@ -15,10 +15,11 @@ Developed highest profit generating quantitative strategies while having decreas
 * All data read by python yahoo finance data reader from 2002 to 2019<br/>
 
 # Strategies
-1. 6 Month Momentum comparing to SHY<br/>
-2. 6 Month Momentum after filtering based on RSI (Relative Strength Index)<br/>
-3. 6 Month Momentum after filtering based on DMI (Dynamic Momentum Index)<br/>
-4. 6 Month Momentum after filtering based on RSI/DMI Outlier Detection - used One-Class SVM<br/>
+1. __6 Month Momentum comparing to SHY__<br/>
+2. __6 Month Momentum after filtering based on RSI (Relative Strength Index)__<br/>
+3. __6 Month Momentum after filtering based on DMI (Dynamic Momentum Index)__<br/>
+4. __6 Month Momentum after filtering based on RSI/DMI Outlier Detection - used One-Class SVM__<br/>
+Here, compared performance to equal-weighted ETFs and SPY
 
 # Result and Insights
 * Performance comparison of strategies<br/>
